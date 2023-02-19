@@ -23,14 +23,14 @@ global.sewabotnya = `
 edit sewabot di file settings.js line 19
 `
 // setting 
-global.firtsChat = true //send firts message to new user
-global.autoread = true // auto read message
+global.firtsChat = false //send firts message to new user
+global.autoread = false // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -41,24 +41,24 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.botname = "ZEUS-BOT" //namabot kalian
+global.ownername = "ZEUS" //nama kalian
+global.myweb = "https://chat.whatsapp.com/J6POxXuf46W49ro3aBnvaQ" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/Glospot" //bebas asal jan hapus
+global.myweb2 = "https://safelink.id/glospot" //bebas
+global.email = "glospot@gmail.com" //bebas
+global.region = "Jepang" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone list : https://www.php.net/manual/en/timezones.php 
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['6282340108349'] //premium user
+global.owner = ["6281396264865", "6282340108349"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281396264865" // nomor wa kalian
+global.ownernomerr = "+6282340108349" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.background_welcome = "https://telegra.ph/file/a57ba6d85d60f91a1d8e1.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.thumbGif = 'https://telegra.ph/file/98c5958ca602da9571367.mp4'
+global.packname = 'ZEUS-BOT' //sticker wm ubah
+global.author = 'ZEUS-BOT \n PowerBy glospot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'document' //
@@ -72,7 +72,7 @@ global.limitawal = {
 global.buttonDefault = [{
    urlButton: {
       displayText: 'Youtube Channel',
-      url: youtube
+      url: 00000
    }
 }, {
    urlButton: {
@@ -98,7 +98,7 @@ global.buttonDefault = [{
 global.buttonDefault2 = [{
    urlButton: {
       displayText: 'Youtube Channel',
-      url: youtube
+      url: 0000
    }
 }, {
    urlButton: {
@@ -131,7 +131,7 @@ global.buttonDefault3 = [{
    {
       buttonId: `.donasi`,
       buttonText: {
-         displayText: 'Donation 💰'
+         displayText: 'Donasi 🗿'
       },
       type: 1
    }
