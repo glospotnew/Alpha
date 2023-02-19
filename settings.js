@@ -20,7 +20,7 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
-edit sewabot di file settings.js line 19
+Hubungi owner jika ingin sewa bot/jadibot
 `
 // setting 
 global.firtsChat = false //send firts message to new user
@@ -42,7 +42,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "ZEUS-BOT" //namabot kalian
-global.ownername = "ZEUS" //nama kalian
+global.ownername = "Fendy" //nama kalian
 global.myweb = "https://chat.whatsapp.com/J6POxXuf46W49ro3aBnvaQ" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/Glospot" //bebas asal jan hapus
 global.myweb2 = "https://safelink.id/glospot" //bebas
